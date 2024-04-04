@@ -23,11 +23,13 @@ Response Body :
 
 ```json
 {
-  "id": 1,
-  "first_name": "Refaldy Bagas",
-  "last_name": "Anggana",
-  "email": "refaldybanggana@gmail.com",
-  "phone": "08123456789"
+  "data": {
+    "id": 1,
+    "first_name": "Refaldy Bagas",
+    "last_name": "Anggana",
+    "email": "refaldybanggana@gmail.com",
+    "phone": "08123456789"
+  }
 }
 ```
 
@@ -43,11 +45,13 @@ Response Body :
 
 ```json
 {
-  "id": 1,
-  "first_name": "Refaldy Bagas",
-  "last_name": "Anggana",
-  "email": "refaldybanggana@gmail.com",
-  "phone": "08123456789"
+  "data": {
+    "id": 1,
+    "first_name": "Refaldy Bagas",
+    "last_name": "Anggana",
+    "email": "refaldybanggana@gmail.com",
+    "phone": "08123456789"
+  }
 }
 ```
 
@@ -74,11 +78,13 @@ Response Body :
 
 ```json
 {
-  "id": 1,
-  "first_name": "Refaldy Bagas",
-  "last_name": "Anggana",
-  "email": "refaldybanggana@gmail.com",
-  "phone": "08123456789"
+  "data": {
+    "id": 1,
+    "first_name": "Refaldy Bagas",
+    "last_name": "Anggana",
+    "email": "refaldybanggana@gmail.com",
+    "phone": "08123456789"
+  }
 }
 ```
 
